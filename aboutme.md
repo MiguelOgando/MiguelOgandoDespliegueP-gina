@@ -1,16 +1,16 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: página
+title: Sobre mi
+subtitle: Hey, ¿que hay de ti?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola, soy Miguel Ogando. Tengo las siguientes cualidades:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Se hacer este proyecto
+- Estoy en proceso de aprendizaje de Despliegues de apliaciones web
 
-What else do you need?
+¿Qué más necesitas?
 
-### My story
+### Mi hisotoria
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Empecé a estudiar Desarrollo de apliaciones web el año pasado y ahora estoy cursando el segundo año con muchas ganas. 
