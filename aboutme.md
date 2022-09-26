@@ -4,12 +4,12 @@ title: Sobre mi
 subtitle: Hey, ¿que hay de ti?
 ---
 
-Hola, soy Miguel Ogando. Tengo las siguientes cualidades:
+# *Hola, soy Miguel Ogando. Tengo las siguientes cualidades:*
 
 - Se hacer este proyecto
 - Estoy en proceso de aprendizaje de Despliegues de apliaciones web
 
-¿Qué más necesitas?
+*¿Qué más necesitas?*
 
 ### Mi hisotoria
 
