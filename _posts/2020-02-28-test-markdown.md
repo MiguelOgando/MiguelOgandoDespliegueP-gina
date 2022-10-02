@@ -15,8 +15,36 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 ![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png)
 Llamada Rhopilema
 
-![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: style="float:right;": style="clear: bpth;"}
+![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: style="float:right;"}
 Llamada Nemopilema nomurai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
