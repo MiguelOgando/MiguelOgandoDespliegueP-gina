@@ -10,7 +10,7 @@ comments: true
 
 Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágicos, de cuerpo gelatinoso, con forma de campana de la que cuelga un manubrio tubular, con la boca en el extremo inferior, a veces prolongado por largos tentáculos cargados con células urticantes llamados cnidocitos (utilizado para la inyección de toxinas para la captura de presas y la defensa del animal o para adhesión al sustrato durante la locomoción en el caso de los pólipos). Aparecieron hace unos 500 millones de años en el Cámbrico.
 
-> **Dato curisoso**: Existen medusas comestibles
+**Dato curioso**: Existen medusas comestibles
 
 ![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png){: .mx-auto.d-block :}
 >                      Rhopilema
