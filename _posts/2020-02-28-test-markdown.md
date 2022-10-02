@@ -35,5 +35,3 @@ Los valores nutricionales de las medusas, un buen plato conlleva una gran respon
 | Valor calórico | Carbohidrato | Proteínas | Grasas |
 | :------ |:--- | :--- | :--- |
 | 21 kcal | 0,0 g | 3,2 g | 0,8 g |
-
-Si necesitas saber como usar el.md (markdown) [mira este pequeño curso que te ayudará](https://markdowntutorial.com/)
