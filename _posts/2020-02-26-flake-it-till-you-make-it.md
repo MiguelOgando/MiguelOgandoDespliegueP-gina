@@ -7,6 +7,7 @@ thumbnail-img: ![Medusa](https://user-images.githubusercontent.com/91559132/1934
 share-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
 tags: [books, test]
 ---
+La leyenda de Mesuda
 
 Cuenta la leyenda que Medusa era una mujer mortal, hermosa y tentadora como el más dulce de los pecados. Tanta era su belleza que Poseidón, dios del mar, queda enamorado de ella y no descansa hasta conseguir satisfacer su deseo, contra voluntad de la muchacha, en el templo de Atenea.
 
