@@ -16,7 +16,7 @@ _La página modificada está hecha **con fines educativos**, no pretende ser exp
   - [Wikipedia](https://es.wikipedia.org/wiki/Medusozoa) 
   - [Alternativas.me](https://alternativas.me/numeros/21-nume)
   - [Diariofemenino.com](https://diariofemenino.com.ar/df/medusa)
-  - Si te interesa saber cómo utilizar el markdown( .md ) el creador de la página te proporciona un [curso gratuito](https://markdowntutorial.com/) que puede realizar.
+  - Si te interesa saber cómo utilizar el markdown( .md ) el creador de la página le proporciona un [curso gratuito](https://markdowntutorial.com/) que puede completar.
 
 
 ### Cambios realizados en la página:
