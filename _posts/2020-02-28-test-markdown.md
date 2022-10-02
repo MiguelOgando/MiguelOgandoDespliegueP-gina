@@ -30,7 +30,7 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 ![Medusa](https://user-images.githubusercontent.com/91559132/193468236-2c630e48-d22b-4fde-ba6e-8f30b20ed538.png){: width="295" height="295" :}
 
 
-Los valores nutricionales de las medusas, un buen plato conlleva una gran responsablidad:
+###Valor nutricional:
 
 | Valor calórico | Carbohidrato | Proteínas | Grasas |
 | :------ |:--- | :--- | :--- |
