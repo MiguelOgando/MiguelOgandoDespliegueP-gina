@@ -21,11 +21,11 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 
 ## Comida hecha con medusa
 
-¿Te parece apetecible este plato?
+Plato elaborado con Rhopilema
 
 ![Medusa](https://user-images.githubusercontent.com/91559132/193467382-534e40af-73cd-4553-bc9f-7b065dbb5f04.png)
 
-¿Y este plato?
+Plato elaborado con Nemopilema nomurai
 
 ![Medusa](https://user-images.githubusercontent.com/91559132/193468236-2c630e48-d22b-4fde-ba6e-8f30b20ed538.png){: width="295" height="295" :}
 
