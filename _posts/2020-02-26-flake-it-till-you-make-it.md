@@ -3,8 +3,8 @@ layout: post
 title: Más que MEDUSA...
 subtitle: Mitología griega, Μέδουσα
 cover-img: /assets/img/path.jpg
-thumbnail-img: ![image](https://user-images.githubusercontent.com/91559132/193473674-56beeacc-f7e3-427f-a34d-55742ce96db4.png)
-share-img: /assets/img/path.jpg
+thumbnail-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193474068-eab1e042-70aa-418f-b83e-b029b5614e9c.png)
+share-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193474074-f91bc473-9016-4a6d-a71b-7d5740351395.png)
 tags: [books, test]
 ---
 La leyenda de Mesuda
