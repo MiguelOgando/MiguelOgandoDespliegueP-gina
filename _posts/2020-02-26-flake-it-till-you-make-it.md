@@ -2,9 +2,9 @@
 layout: post
 title: Más que MEDUSA...
 subtitle: Mitología griega, Μέδουσα
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/Medusa_by_Caravaggio.jpg
 thumbnail-img: /assets/img/Medusa_by_Caravaggio.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Medusa_by_Caravaggio.jpg
 tags: [books, test]
 ---
 La leyenda de Mesuda
