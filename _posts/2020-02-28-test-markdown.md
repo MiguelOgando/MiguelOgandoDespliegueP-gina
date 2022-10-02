@@ -12,59 +12,20 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 
 **Hay medusas que son comestibles**
 
-![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png)
+![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png){: .mx-auto.d-block :}
 Llamada Rhopilema
 
-![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: style="float:right;"}
+![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: .mx-auto.d-block :}
 Llamada Nemopilema nomurai
 
 
+## Comiida hecha con medusa
 
+¿Te parece apetecible este plato?
 
+![Medusa](https://user-images.githubusercontent.com/91559132/193467382-534e40af-73cd-4553-bc9f-7b065dbb5f04.png){: .mx-auto.d-block :}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Medusa](https://user-images.githubusercontent.com/91559132/193463344-c76da8b7-10f5-4c9c-9fbc-1bd6d390c490.png)
-
-It can also be centered!
+¿Y este plato?
 
 ![Medusa](https://user-images.githubusercontent.com/91559132/193463409-6b7fd3c5-ff0a-44d2-a10e-27e74c98c860.png){: .mx-auto.d-block :}
 
