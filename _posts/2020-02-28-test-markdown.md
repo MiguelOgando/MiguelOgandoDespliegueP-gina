@@ -4,7 +4,7 @@ title: Wikipedia de las medusas
 subtitle: Información general
 gh-repo: MiguelOgando/MiguelOgandoDespliegueP-gina
 gh-badge: [star, fork, follow]
-tags: [wikipedia]
+tags: [wikipedia, comidas]
 comments: true
 ---
 
