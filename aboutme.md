@@ -4,11 +4,11 @@ title: Acerca de
 subtitle: Hecho por Miguel Ángel Ogando Gómez
 ---
 
-### Página original relizada por:
-La página creada ha sido extraida de la plataforma [Site Generators](https://jamstack.org/generators/), en donde se ha elegido preferentemete [Beautiful Jekyll](https://jamstack.org/generators/beautiful-jekyll/) como proyecto base para su posteriror modificación acorde a los criterios de calificación de esta práctica.
+### Página original realizada por:
+La página creada ha sido extraída de la plataforma [Site Generators](https://jamstack.org/generators/), en donde se ha elegido preferentemente [Beautiful Jekyll](https://jamstack.org/generators/beautiful-jekyll/) como proyecto base para su posterior modificación acorde a los criterios de calificación de esta práctica.
 Esta página ha podido ser realizada gracias al creador [Dean Attali](https://deanattali.com/).
 
-_La página modificada está hecha *con fines educativos*, no pretende ser expuesta de forma comercial._
+_La página modificada está hecha **con fines educativos**, no pretende ser expuesta de forma comercial._
 
 #### Referencias de páginas:
 
@@ -16,17 +16,17 @@ _La página modificada está hecha *con fines educativos*, no pretende ser expue
   - [Wikipedia](https://es.wikipedia.org/wiki/Medusozoa) 
   - [Alternativas.me](https://alternativas.me/numeros/21-nume)
   - [Diariofemenino.com](https://diariofemenino.com.ar/df/medusa)
-  - Si te interesa saber cómo utilizar el markdown( .md ) el creador de la página te proporciona un [curso gratuito](https://markdowntutorial.com/) que poner realizar.
+  - Si te interesa saber cómo utilizar el markdown( .md ) el creador de la página te proporciona un [curso gratuito](https://markdowntutorial.com/) que puede realizar.
 
 
 ### Cambios realizados en la página:
 Se ha incidido dentro del github en los archivos llamados:
   -  index.html
-  > Se ha cambiado el títutlo u subtítulo de la página inicial.
+  > Se ha cambiado el título y subtítulo de la página inicial.
   -  aboutme.md
-  > Se ha modificado de tal forma que entre todo el contenido de derechos, provacidad y descripción de los cambios realizados en el proyecto.
+  > Se ha modificado de tal forma que entre todo el contenido de derechos, privacidad y descripción de los cambios realizados en el proyecto.
   -  _config.yml
-  > Se han heco cambios tanto estéticos como de contendio. Se ha cambiado el navbar como versión definitiva optimizando el contenido de este, cambiando la imagen situada en el navbar, colocando nuestro propio nombre y traduciendo en la mayoría el contenido que aparece en la página. Además de usar el despliegue de recursos para mover al autor dentro de este.
+  > Se han hecho cambios tanto estéticos como de contenido. Se ha cambiado el navbar como versión definitiva optimizando el contenido de este, cambiando la imagen situada en el navbar, colocando nuestro propio nombre y traduciendo en la mayoría el contenido que aparece en la página. Además de usar el despliegue de recursos para mover al autor dentro de este.
   -  _includes/footer.html
   > Eliminado el tiempo que aparece en el _config.yml.
   -  _includes/nav.html
@@ -34,7 +34,7 @@ Se ha incidido dentro del github en los archivos llamados:
   -  _includes/social-share.html
   > Traducción en palabras clave.
   -  _layouts/base.html
-  > Cambiado el idioma de inglés a español con "en".
+  > Cambiado el idioma de inglés a español con "es".
   -  _layouts/home.html
   > Traducción.
   -  _layouts/post.html
