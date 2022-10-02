@@ -40,9 +40,9 @@ Se ha incidido dentro del github en los archivos llamados:
   -  _layouts/post.html
   >  Traducción.
   -  _posts/2020-02-26-flake-it-till-you-make-it.md
-  > Cambio del contenido general de la página, se ha ambientado acorde al contenido tratado en el tema, tomando referencia de páginas con información sobre la historia. Incluyendo imágenes que se acomoden al contenido.
+  > Cambio del contenido general de la página, se ha ambientado acorde al contenido tratado en el tema, tomando referencia de páginas con información sobre la historia. Incluyendo imágenes que se acomoden al contenido. [Alternativas.me](https://alternativas.me/numeros/21-nume) [Diariofemenino.com](https://diariofemenino.com.ar/df/medusa)
   -  _posts/2020-02-28-test-markdown.md
-  > Cambio general de la página, tomando información científica sobre las medusas además de datos curiosos con imágenes demostrables. 
+  > Cambio general de la página, tomando información científica sobre las medusas además de datos curiosos con imágenes demostrables. [Wikipedia](https://es.wikipedia.org/wiki/Medusozoa)
   -  assets/img/medusa.webp (añadido)
   -  assets/img/portadaExterna.jfif (añadido)
 
