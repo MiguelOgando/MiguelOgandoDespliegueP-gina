@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/portadaExterna.jfif
 share-img: /assets/img/portadaExterna.jfif
 tags: [Medusa]
 ---
-La leyenda de Mesuda
+La leyenda de Medusa
 
 Cuenta la leyenda que Medusa era una mujer mortal, hermosa y tentadora como el más dulce de los pecados. Tanta era su belleza que Poseidón, dios del mar, queda enamorado de ella y no descansa hasta conseguir satisfacer su deseo, contra voluntad de la muchacha, en el templo de Atenea.
 
