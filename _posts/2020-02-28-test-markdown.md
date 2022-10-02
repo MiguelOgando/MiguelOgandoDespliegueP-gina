@@ -12,14 +12,14 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 
 **Hay medusas que son comestibles**
 
->![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png){: .mx-auto.d-block :}
+![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png){: .mx-auto.d-block :}
 >                      Rhopilema
 
 
 
 
 
->![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: .mx-auto.d-block :}
+![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: .mx-auto.d-block :}
 >                      Nemopilema nomurai
 
 
