@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+title: Más que MEDUSA...
+subtitle: Mitología griega, Μέδουσα
+cover-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193471327-8b8aa43c-5686-4374-9a49-8e5c308c3208.png)
+thumbnail-img: ![image](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Cuenta la leyenda que Medusa era una mujer mortal, hermosa y tentadora como el más dulce de los pecados. Tanta era su belleza que Poseidón, dios del mar, queda enamorado de ella y no descansa hasta conseguir satisfacer su deseo, contra voluntad de la muchacha, en el templo de Atenea.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Atenea, diosa de la pureza y castidad entre otras cosas, se ve terriblemente ofendida y castiga a Medusa pues simbolizaba todo lo contrario a ella.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Los cabellos de la joven se vuelven serpientes, sus ojos de una intensidad tal que si los miras fijamente, te vuelves de piedra. Medusa se había transformado en un monstruo pero aún se hacía valer por su andar provocador y sensual que hipnotizaba casi tanto como su mirada.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Atenea, viendo que su castigo no había tomado el camino que ella esperaba, envió al valeroso Perseo a que cortara su cabeza. Éste, muy inteligentemente, usó su escudo a modo de espejo para que Medusa se reflejara en él y de este modo pudiera vencerla y entregarla a la diosa.
+
+Desde entonces la cabeza de Medusa fue imágen del escudo de la casta Atenea como instrumento para atemorizar al enemigo.
+
+En ello se unía la perversión y la virtud, _porque nunca nada es tan bueno, ni a la vez tan malo._
