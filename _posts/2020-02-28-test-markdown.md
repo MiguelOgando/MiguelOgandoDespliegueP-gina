@@ -2,7 +2,7 @@
 layout: post
 title: Wikipedia de las medusas
 subtitle: Información general
-gh-repo: daattali/beautiful-jekyll
+gh-repo: MiguelOgando/MiguelOgandoDespliegueP-gina
 gh-badge: [star, fork, follow]
 tags: [wikipedia]
 comments: true
