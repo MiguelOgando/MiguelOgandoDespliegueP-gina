@@ -5,7 +5,7 @@ subtitle: Mitología griega, Μέδουσα
 cover-img: /assets/img/medusa.webp
 thumbnail-img: /assets/img/portadaExterna.jfif
 share-img: /assets/img/Medusa_by_Caravaggio.jpg
-tags: [books, test]
+tags: [Medusa]
 ---
 La leyenda de Mesuda
 
@@ -20,3 +20,5 @@ Atenea, viendo que su castigo no había tomado el camino que ella esperaba, envi
 Desde entonces la cabeza de Medusa fue imágen del escudo de la casta Atenea como instrumento para atemorizar al enemigo.
 
 En ello se unía la perversión y la virtud, _porque nunca nada es tan bueno, ni a la vez tan malo._
+
+En una oda escrita en el 490 a. C. por Píndaro
