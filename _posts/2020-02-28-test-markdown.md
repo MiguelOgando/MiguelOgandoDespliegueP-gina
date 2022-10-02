@@ -8,8 +8,17 @@ tags: [wikipedia]
 comments: true
 ---
 
+Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágicos, de cuerpo gelatinoso, con forma de campana de la que cuelga un manubrio tubular, con la boca en el extremo inferior, a veces prolongado por largos tentáculos cargados con células urticantes llamados cnidocitos (utilizado para la inyección de toxinas para la captura de presas y la defensa del animal o para adhesión al sustrato durante la locomoción en el caso de los pólipos). Aparecieron hace unos 500 millones de años en el Cámbrico.
 
-**Here is some bold text**
+**Hay medusas que son comestibles**
+
+![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png)
+Su nombre es Rhopilema.
+
+![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png)
+Su nombre es Nemopilema nomurai.
+
+
 
 ## Here is a secondary heading
 
@@ -25,11 +34,11 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](![image](https://user-images.githubusercontent.com/91559132/193463344-c76da8b7-10f5-4c9c-9fbc-1bd6d390c490.png))
+![Medusa](https://user-images.githubusercontent.com/91559132/193463344-c76da8b7-10f5-4c9c-9fbc-1bd6d390c490.png)
 
 It can also be centered!
 
-![Crepe](![image](https://user-images.githubusercontent.com/91559132/193463409-6b7fd3c5-ff0a-44d2-a10e-27e74c98c860.png)){: .mx-auto.d-block :}
+![Medusa](https://user-images.githubusercontent.com/91559132/193463409-6b7fd3c5-ff0a-44d2-a10e-27e74c98c860.png){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
