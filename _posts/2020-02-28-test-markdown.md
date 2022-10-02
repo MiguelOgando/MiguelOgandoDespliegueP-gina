@@ -13,13 +13,13 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 **Hay medusas que son comestibles**
 
 ![Rhopilema](https://user-images.githubusercontent.com/91559132/193464402-7e420078-14af-4489-abcc-2126d9e184b8.png){: .mx-auto.d-block :}
-                Llamada Rhopilema
+Llamada Rhopilema
 
 ![Nemopilema nomurai](https://user-images.githubusercontent.com/91559132/193464607-8ce04fd5-03a4-4fe1-992c-a936dcd82e28.png){: .mx-auto.d-block :}
-                Llamada Nemopilema nomurai
+Llamada Nemopilema nomurai
 
 
-## Comiida hecha con medusa
+## Comida hecha con medusa
 
 ¿Te parece apetecible este plato?
 
@@ -27,51 +27,14 @@ Las medusas, son animales marinos pertenecientes al filo Cnidaria; son pelágico
 
 ¿Y este plato?
 
-![Medusa](https://user-images.githubusercontent.com/91559132/193463409-6b7fd3c5-ff0a-44d2-a10e-27e74c98c860.png){: .mx-auto.d-block :}
+![Medusa](https://user-images.githubusercontent.com/91559132/193468236-2c630e48-d22b-4fde-ba6e-8f30b20ed538.png)
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
+Los valores nutricionales de las medusas, un buen plato conlleva una gran responsablidad:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+| Valor calórico | Carbohidrato | Proteínas | Grasas |
+| :------ |:--- | :--- | :--- |
+| 21 kcal | 0,0 g | 3,2 g | 0,8 g |
 
 Si necesitas saber como usar el.md (markdown) [mira este pequeño curso que te ayudará](https://markdowntutorial.com/)
