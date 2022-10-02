@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Wikipedia de las medusas
+subtitle: Información general
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [wikipedia]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
 
@@ -26,11 +25,11 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](![image](https://user-images.githubusercontent.com/91559132/193463344-c76da8b7-10f5-4c9c-9fbc-1bd6d390c490.png))
 
 It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](![image](https://user-images.githubusercontent.com/91559132/193463409-6b7fd3c5-ff0a-44d2-a10e-27e74c98c860.png)){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
@@ -76,3 +75,5 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+Si necesitas saber como usar el.md (markdown) [mira este pequeño curso que te ayudará](https://markdowntutorial.com/)
