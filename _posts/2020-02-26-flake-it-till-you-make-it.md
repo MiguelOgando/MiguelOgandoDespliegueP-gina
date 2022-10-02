@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Más que MEDUSA...
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Mitología griega, Μέδουσα
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
