@@ -1,5 +1,5 @@
 ---
-layout: página
+layout: page
 title: Sobre mi
 subtitle: Hey, ¿que hay de ti?
 ---
