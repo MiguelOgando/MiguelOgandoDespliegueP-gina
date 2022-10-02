@@ -4,7 +4,7 @@ title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
+share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 La leyenda de Mesuda
