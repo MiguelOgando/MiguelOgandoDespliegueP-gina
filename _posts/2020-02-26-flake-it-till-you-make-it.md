@@ -3,7 +3,7 @@ layout: post
 title: Más que MEDUSA...
 subtitle: Mitología griega, Μέδουσα
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: ![image](https://user-images.githubusercontent.com/91559132/193473674-56beeacc-f7e3-427f-a34d-55742ce96db4.png)
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
