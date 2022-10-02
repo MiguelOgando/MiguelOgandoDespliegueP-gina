@@ -3,8 +3,8 @@ layout: post
 title: Más que MEDUSA...
 subtitle: Mitología griega, Μέδουσα
 cover-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193471327-8b8aa43c-5686-4374-9a49-8e5c308c3208.png)
-thumbnail-img: ![image](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
-share-img: /assets/img/path.jpg
+thumbnail-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
+share-img: ![Medusa](https://user-images.githubusercontent.com/91559132/193472255-a631d295-6269-4ec4-9f4b-952456958dad.png){: width="143.65" height="144" :}
 tags: [books, test]
 ---
 
