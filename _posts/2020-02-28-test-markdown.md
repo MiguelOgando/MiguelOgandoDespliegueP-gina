@@ -30,7 +30,8 @@ Plato elaborado con Nemopilema nomurai
 ![Medusa](https://user-images.githubusercontent.com/91559132/193468236-2c630e48-d22b-4fde-ba6e-8f30b20ed538.png){: width="295" height="295" :}
 
 
-### Valor nutricional:
+#### Valor nutricional:
+
 
 | Valor calórico | Carbohidrato | Proteínas | Grasas |
 | :------ |:--- | :--- | :--- |
